@@ -1,0 +1,51 @@
+Region,State,FIPS Code
+Northeast,Maine,23
+Northeast,New Hampshire,33
+Northeast,Vermont,50
+Northeast,Massachusetts,25
+Northeast,Rhode Island,44
+Northeast,Connecticut,9
+Northeast,New York,36
+Northeast,New Jersey,34
+Northeast,Pennsylvania,42
+Northeast,Delaware,10
+Northeast,Maryland,24
+Midwest,Ohio,39
+Midwest,Indiana,18
+Midwest,Illinois,17
+Midwest,Michigan,26
+Midwest,Wisconsin,55
+Midwest,Minnesota,27
+Midwest,Iowa,19
+Midwest,Missouri,29
+Midwest,North Dakota,38
+Midwest,South Dakota,46
+Midwest,Nebraska,31
+Midwest,Kansas,20
+South,Florida,12
+South,Georgia,13
+South,North Carolina,37
+South,South Carolina,45
+South,Virginia,51
+South,West Virginia,54
+South,Kentucky,21
+South,Tennessee,47
+South,Mississippi,28
+South,Alabama,1
+South,Texas,48
+South,Oklahoma,40
+South,Arkansas,5
+South,Louisiana,22
+West,Montana,30
+West,Idaho,16
+West,Wyoming,56
+West,Colorado,8
+West,Utah,49
+West,Nevada,32
+West,Arizona,4
+West,New Mexico,35
+West,Washington,53
+West,Oregon,41
+West,California,6
+West,Alaska,2
+West,Hawaii,15
