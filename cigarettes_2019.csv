@@ -1,0 +1,54 @@
+LocationDesc,Data_Value,FIPS
+Alabama,20.2,01
+Alaska,17.4,02
+Arizona,14.9,04
+Arkansas,20.2,05
+California,10,06
+Colorado,13.5,08
+Connecticut,12.1,09
+Delaware,15.9,10
+District of Columbia,12.7,11
+Florida,14.8,12
+Georgia,16.3,13
+Guam,23.4,66
+Hawaii,12.3,15
+Idaho,15.3,16
+Illinois,14.5,17
+Indiana,19.2,18
+Iowa,16.4,19
+Kansas,16.2,20
+Kentucky,23.6,21
+Louisiana,21.9,22
+Maine,17.6,23
+Maryland,12.7,24
+Massachusetts,12,25
+Michigan,18.7,26
+Minnesota,14.6,27
+Mississippi,20.4,28
+Missouri,19.6,29
+Montana,16.6,30
+Nebraska,14.7,31
+Nevada,15.7,32
+New Hampshire,15.9,33
+New Jersey,N/A,34
+New Mexico,16,35
+New York,12.7,36
+North Carolina,18.5,37
+North Dakota,17,38
+Ohio,20.8,39
+Oklahoma,18.9,40
+Oregon,14.5,41
+Pennsylvania,17.3,42
+Puerto Rico,9.6,72
+Rhode Island,13.3,44
+South Carolina,17.5,45
+South Dakota,18.3,46
+Tennessee,19.9,47
+Texas,14.7,48
+Utah,7.9,49
+Vermont,15.1,50
+Virginia,14,51
+Washington,12.6,53
+West Virginia,23.8,54
+Wisconsin,15.4,55
+Wyoming,18.4,56
